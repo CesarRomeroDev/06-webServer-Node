@@ -19,3 +19,7 @@
 - Desplegando aplicaciones de Angular y React
 - Desplegar nuevos cambios en Railway
 - Consideraciones con Railway
+- Subiendo nuestra aplicación a producción.
+- Subir los cambios a Heroku.
+
+[Fín de la Sección Node-webserver-con-express] 25/01/2023
