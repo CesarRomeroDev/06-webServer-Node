@@ -12,3 +12,10 @@
 - Argumentos desde el controlador.
 - Usando parciales con HBS.
 - Preparar Webserver para subirlo a un hosting.
+
+[Node-webserver-con-express] 20/01/2023
+
+- Desplegar Aplicación en Railway.app
+- Desplegando aplicaciones de Angular y React
+- Desplegar nuevos cambios en Railway
+- Consideraciones con Railway
